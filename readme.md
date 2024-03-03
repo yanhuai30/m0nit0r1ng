@@ -1,0 +1,1 @@
+The aim of this project is to create a fitness tracking app that helps users achieve their fitness goals. It includes features such as workout tracking, progress monitoring, and personalized recommendations based on the user's fitness level.
